@@ -1,7 +1,7 @@
 body {
     background-color: lightsteelblue;
   }
-body{
+h1{
     text-align: center;
 }
 h1{
@@ -12,6 +12,5 @@ hr {
     width: 50%;
 }
 body{
-    background-image: url(gradient_bg.png);
-    background-repeat: repeat-x;
+    background-image: image();
 }
